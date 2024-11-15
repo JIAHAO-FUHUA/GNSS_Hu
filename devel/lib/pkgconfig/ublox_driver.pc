@@ -1,8 +1,0 @@
-prefix=/home/uav1/gnss_hu/devel
-
-Name: ublox_driver
-Description: Description of ublox_driver
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
